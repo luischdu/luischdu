@@ -2,7 +2,7 @@
 
 ## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Luis Miguel
 <details open>
- <summary> <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif width="10px"> <b>Github Stats</b>: </summary>
+ <summary> 🚀👨🏽‍💻 <b>Github Stats</b>: </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=luischdu&show_icons=true&count_private=true&theme=dracula&line_height=30">
